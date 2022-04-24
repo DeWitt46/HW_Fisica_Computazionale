@@ -1,4 +1,4 @@
-PROGRAM es_2
+PROGRAM CLT
 IMPLICIT NONE
 !-----------------------------------------------------
 !Code to numerically prove central limit theory 
@@ -361,4 +361,4 @@ END DO
 END SUBROUTINE cauchy
 
 
-END PROGRAM es_2
+END PROGRAM CLT
